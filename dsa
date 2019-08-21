@@ -7,7 +7,7 @@ Pac 12,North,South,,,,,,,,,,,
 AAC,East,West,,,,,,,,,,,
 # Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
 # SEC,,,,,,,,,,,,,
-TEAM,SEC,West,Alabama,ALA,95,TEN,,,,,,,
+TEAM,SEC,West,Alabama,ALA,10,TEN,,,,,,,
 TEAM,SEC,West,Texas A&M,TAMU,85,SCAR,,,,,,,
 TEAM,SEC,West,LSU,LSU,85,UF,,,,,,,
 TEAM,SEC,West,Auburn,AUB,85,UGA,,,,,,,
@@ -106,7 +106,7 @@ PLAYER,RICE,OL,Iam Sosorry,Fr,79,299,100,100,100,100,100,100,100
 PLAYER,RICE,DL,What AmI,Fr,79,299,100,100,100,100,100,100,100
 PLAYER,RICE,S,Meso Horny,Fr,72,200,100,100,100,100,100,100,100
 PLAYER,RICE,S,Anal Herpes,Fr,72,200,100,100,100,100,100,100,100
-PLAYER,RICE,HB,Austin Powers,Fr,67,179,100,100,100,100,100,100,100
+PLAYER,RICE,QB,Austin Powers,Fr,72,200,100,100,100,100,100,100,100
 
 
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
