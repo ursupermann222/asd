@@ -96,14 +96,25 @@ TEAM,AAC,East,Troy,TROY,70,APP,,,,,,,
 TEAM,AAC,East,Temple,TEM,70,NAVY,,,,,,,
 TEAM,AAC,East,East Carolina,ECU,65,TULN,,,,,,,
 TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
+
+PLAYER,RICE,HB,Austin Powers,Fr,72,200,100,100,100,100,100,100,100
+PLAYER,RICE,OL,Teen Angst,Fr,79,299,100,100,100,100,100,100,100
+PLAYER,RICE,OL,Orange Scherbert,Fr,79,299,100,100,100,100,100,100,100
+PLAYER,RICE,OL,Tay Tay,Fr,79,299,100,100,100,100,100,100,100
+PLAYER,RICE,OL,Jew Kyle,Fr,79,299,100,100,100,100,100,100,100
+PLAYER,RICE,OL,Iam Sosorry,Fr,79,299,100,100,100,100,100,100,100
+PLAYER,RICE,S,Meso Horny,Fr,72,200,100,100,100,100,100,100,100
+PLAYER,RICE,S,Anal Herpes,Fr,72,200,100,100,100,100,100,100,100
+
+
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-# COACH,ALA,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
+# COACH,ALA,Nick Saban,85,90,90,90,90,Pro Style,Conservative,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,ALA,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
+# OC,ALA,Mike Locksley,85,90,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
+# DC,ALA,Kirby Smart,85,95,LB,Inside Run,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
-# PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
+# PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,1,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,10,10,10,10,10,10,10
 END_FILE,,,,,,,,,,,,,
